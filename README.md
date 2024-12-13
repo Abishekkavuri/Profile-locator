@@ -96,7 +96,7 @@ This project is licensed under the MIT License.
 ---
 
 ### Contact
-For questions or feedback, please reach out at your-mailtoabisheka@gmail.com.
+For questions or feedback, please reach out at mailtoabisheka@gmail.com.
 
 ## GitHub Repository
 Check out the project on GitHub: [Profile Locator](https://github.com/Abishekkavuri/Profile-locator.git).
