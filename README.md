@@ -1,5 +1,4 @@
 # Profile-locator
-# Profile Locator
 
 ## Overview
 **Profile Locator** is a React-based web application that allows users to view a list of profiles and explore their associated addresses on an interactive map. This project integrates Google Maps for address visualization and provides an intuitive interface for navigating and managing profiles.
@@ -44,7 +43,7 @@
 ### Steps to Run the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/profile-locator.git
+   https://github.com/Abishekkavuri/Profile-locator.git
    cd profile-locator
    ```
 
@@ -76,11 +75,6 @@
   /pages
     - ProfileList.js
   /App.js
-  /index.js
-  /styles
-    - App.css
-    - ProfileCard.css
-    - MapComponent.css
 ```
 
 ## Usage
